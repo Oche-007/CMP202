@@ -1,6 +1,4 @@
-package DSA.Arrays.Algos;
-
-public class Fib {
+public class Fibb {
     // public static void main(String[] args) {
     //     Fib print = new Fib();
     //     print.printFibo(5);
