@@ -1,5 +1,3 @@
-package DSA.Arrays.Algos;
-
 public class Stack {
     int size;
     int top;
